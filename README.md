@@ -1,15 +1,11 @@
-<div id="header" align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpwdGFxam9rYWdtYjA4aGR1cTAxeHl1cG05dnNiZDNscHN1NmtqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
-</div>
-
-<div id="badges">
+<div id="header" align="left"> 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpwdGFxam9rYWdtYjA4aGR1cTAxeHl1cG05dnNiZDNscHN1NmtqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/>
   <a href="https://t.me/ramonagr">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+  </a> 
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=missille1&style=flat-square&color=blue"/>
 <div id="header" align="left">
-  <img src="https://komarev.com/ghpvc/?username=missille1&style=flat-square&color=blue" alt=""/>
 <h2>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
@@ -43,25 +39,29 @@ I'm trying to become a DevOps <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-#### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missille1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Репозитории -->
 <p align="center">
   <h3 align="left">My Repos</h3>
-<!--   <table> -->
-<!--     <tr> -->
+ <table>
+<tr>
       <td align="left">
         <a href="https://github.com/missille1/s21_learn">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=missille1&repo=s21_learn&theme=vision-friendly-dark" />
         </a>
       </td>
+  <h3 align="center">:fire: My Stats</h3>
+      <td align="center">
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missille1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+      </td>
 <!--       <td align="center">
         <a href="https://github.com/">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=SmartCalc_v2.0&theme=algolia" />
         </a>
-      </td>
-    </tr>
-    <tr> -->
-<!--   </table> -->
-</p>
+      </td>-->
+</tr>
+<tr>
+</table> 
+
+
+
+
