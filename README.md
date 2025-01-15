@@ -45,3 +45,23 @@ I'm trying to become a DevOps <img src="https://media.giphy.com/media/WUlplcMpOC
 
 #### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missille1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Репозитории -->
+<p align="center">
+  <h3 align="left">My Repos</h3>
+<!--   <table> -->
+<!--     <tr> -->
+      <td align="left">
+        <a href="https://github.com/missille1/s21_learn">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=missille1&repo=s21_learn&theme=vision-friendly-dark" />
+        </a>
+      </td>
+<!--       <td align="center">
+        <a href="https://github.com/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=SmartCalc_v2.0&theme=algolia" />
+        </a>
+      </td>
+    </tr>
+    <tr> -->
+<!--   </table> -->
+</p>
