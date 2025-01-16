@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-I'm trying to become a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.  
-📖 I'm currently learning C for the base and then want to move into 🐍 for some good scripting.
+I'm a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
+📖 I'm currently learning C/С++ for the base and then want to move into 🐍 for some good scripting.
 
 #### I can do it:
 <div>
@@ -48,7 +48,7 @@ I'm trying to become a DevOps <img src="https://media.giphy.com/media/WUlplcMpOC
     <tr>
         <td>
           <a href="https://github.com/missille1/s21_learn" >
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=missille1&repo=s21_learn&theme=vision-friendly-dark" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=missille1&repo=s21_learn&theme=vision-friendly-dark" alt="pet projets"/>
           </a>
         </td>
         <td>
