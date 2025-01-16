@@ -26,41 +26,36 @@ Here are some ideas to get you started:
 I'm trying to become a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.  
 📖 I'm currently learning C for the base and then want to move into 🐍 for some good scripting.
 
-#### :hammer_and_wrench: I can do it:
+#### I can do it:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="Gitlab" alt="Gitlab" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="Gitlab" alt="Gitlab" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="25" height="25"/>
 </div>
 
 <!-- Репозитории -->
-<p align="center">
-  <h3 align="left">My Repos</h3>
- <table>
-<tr>
-      <td align="left">
-        <a href="https://github.com/missille1/s21_learn">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=missille1&repo=s21_learn&theme=vision-friendly-dark" />
-        </a>
-      </td>
-  <h3 align="center">:fire: My Stats</h3>
-      <td align="center">
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missille1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-      </td>
-<!--       <td align="center">
-        <a href="https://github.com/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=SmartCalc_v2.0&theme=algolia" />
-        </a>
-      </td>-->
-</tr>
-</table> 
-
-
-
+<table>
+    <tr>
+        <td>My Repos</td>
+        <td>:fire: My Stats</td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://github.com/missille1/s21_learn" >
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=missille1&repo=s21_learn&theme=vision-friendly-dark" />
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missille1&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+          </a>
+        </td>
+    </tr>
+</table>
 
