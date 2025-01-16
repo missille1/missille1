@@ -48,7 +48,7 @@ I'm a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
     <tr>
         <td>
           <a href="https://github.com/missille1/s21_learn" >
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=missille1&repo=s21_learn&theme=vision-friendly-dark" alt="pet projets"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=missille1&repo=s21_learn&theme=vision-friendly-dark"/>
           </a>
         </td>
         <td>
