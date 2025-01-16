@@ -48,12 +48,12 @@ I'm a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
     <tr>
         <td>
           <a href="https://github.com/missille1/s21_learn" >
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=missille1&repo=s21_learn&theme=vision-friendly-dark"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=missille1&repo=s21_learn&theme=dark"/>
           </a>
         </td>
         <td>
           <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missille1&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missille1&layout=compact&theme=dark" alt="Top Langs" />
           </a>
         </td>
     </tr>
