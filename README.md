@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-I'm trying to learn all the DevOps utilities before they go out of hype 😄. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
+I'm trying to learn all the DevOps utilities before they go out of hype 😄 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
 
 #### I can do it:
 <div>
