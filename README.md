@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a> 
 </div>
+
 <!--
 <img src="https://komarev.com/ghpvc/?username=missille1&style=flat-square&color=blue"/>
 <div id="header" align="left">
@@ -11,6 +12,8 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h2>
+-->
+
 <!--
 **missille1/missille1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -24,7 +27,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-<!-- I'm trying to learn all the DevOps utilities before they go out of hype 😄 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  -->
+<!--
+I'm trying to learn all the DevOps utilities before they go out of hype 😄 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+-->
 
 <!-- ##### I can do it:
 <div>
@@ -40,8 +45,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="25" height="25"/>
 </div> --> 
 
-<!-- Репозитории -->
-<!--  <table>
+<!--
+Репозитории 
+-->
+<!--
+<table>
     <tr>
         <td>My Repos</td>
         <td>:fire: My Stats</td>
@@ -58,5 +66,12 @@ Here are some ideas to get you started:
           </a>
         </td>
     </tr>
-</table> -->
+</table>
+-->
+<td>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missille1&layout=compact&theme=dark" alt="Top Langs" />
+  </a>
+</td>
+    </tr>
 
