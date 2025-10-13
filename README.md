@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a> 
 </div>
+<!--
 <img src="https://komarev.com/ghpvc/?username=missille1&style=flat-square&color=blue"/>
 <div id="header" align="left">
 <h2>
