@@ -1,8 +1,5 @@
 <div id="header" align="left"> 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpwdGFxam9rYWdtYjA4aGR1cTAxeHl1cG05dnNiZDNscHN1NmtqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/>
-  <a href="https://t.me/ramonagr">
-    <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a> 
 </div>
 
 <!--
