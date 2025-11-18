@@ -1,8 +1,7 @@
-<!--
 <div id="header" align="left"> 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpwdGFxam9rYWdtYjA4aGR1cTAxeHl1cG05dnNiZDNscHN1NmtqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/>
 </div>
--->
+
 
 <!--
 <img src="https://komarev.com/ghpvc/?username=missille1&style=flat-square&color=blue"/>
